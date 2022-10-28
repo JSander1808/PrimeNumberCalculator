@@ -1,0 +1,5 @@
+C:\Users\wseadmin\source\repos\Primzahlberechnung\Primzahlberechnung\bin\Release\netcoreapp3.1\publish\Primzahlberechnung.exe
+C:\Users\wseadmin\source\repos\Primzahlberechnung\Primzahlberechnung\bin\Release\netcoreapp3.1\publish\Primzahlberechnung.dll
+C:\Users\wseadmin\source\repos\Primzahlberechnung\Primzahlberechnung\bin\Release\netcoreapp3.1\publish\Primzahlberechnung.deps.json
+C:\Users\wseadmin\source\repos\Primzahlberechnung\Primzahlberechnung\bin\Release\netcoreapp3.1\publish\Primzahlberechnung.runtimeconfig.json
+C:\Users\wseadmin\source\repos\Primzahlberechnung\Primzahlberechnung\bin\Release\netcoreapp3.1\publish\Primzahlberechnung.pdb
